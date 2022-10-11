@@ -1,4 +1,4 @@
-### Hola a todes 👋
+### Hola, Soy Alejandro Díaz 👋
 
 <!--
 **adiazcjc/adiazcjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## ¿Qué me destaca? 
+
+
+## Mis Tech Skills
+
+|JavaScrip | React | Redux | React-Redux | Express | PostgresSQL | Sequalize | HTML | CSS |
+
+## Si te interesó mi perfil, te dejo mis datos de contacto 📩
+- Email: adiazcjc@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/adiazcjc/
