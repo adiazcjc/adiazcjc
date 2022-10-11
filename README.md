@@ -1,4 +1,4 @@
-### Hola, Soy Alejandro Díaz 👋
+## Hola, Soy Alejandro Díaz 👋
 
 <!--
 **adiazcjc/adiazcjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ¿Qué me destaca? 
+### ¿Quién soy? 
 
+Desarrollador Web Full Stack orientado al Front-End y Profesor de Matemáticas, con experiencia en trabajo en equipo y resolución de problemas.
 
-## Mis Tech Skills
+Me considero una persona creativa, responsable y comprometida haciendo lo que más me gusta que es programar. Gracias a mi experiencia laboral y a la docencia pude desarrollar capacidades de interpretar, escuchar y colaborar. Estoy siempre dispuesto a seguir aprendiendo y con muchas ganas de afrontar nuevos desafíos.
 
-|JavaScrip | React | Redux  Express | PostgresSQL | Sequalize | HTML | CSS |
+### Mis Tech Skills
 
 <p align="left">  
 
@@ -29,5 +30,6 @@ Here are some ideas to get you started:
 <a href="https://reactjs.org/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
 ## Si te interesó mi perfil, te dejo mis datos de contacto 📩
+  
 - Email: adiazcjc@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/adiazcjc/
