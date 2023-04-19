@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 ### ¿Quién soy? 
 
-Desarrollador Web Full Stack orientado al Front-End y Profesor de Matemáticas, con experiencia en trabajo en equipo y resolución de problemas.
-
-Me considero una persona creativa, responsable y comprometida haciendo lo que más me gusta que es programar. Gracias a mi experiencia laboral y a la docencia pude desarrollar capacidades de interpretar, escuchar y colaborar. Estoy siempre dispuesto a seguir aprendiendo y con muchas ganas de afrontar nuevos desafíos.
+Soy un Full Stack Developer con formación en Desarrollo Web y experiencia trabajando en tecnologias como JavaScript, React, Redux, NodeJS, entre otras. Como Profesor de Matemáticas, he desarrollado habilidades adicionales que me han permitido incorporarme de manera exitosa en la industria IT. Me apasiona el aprendizaje constante y el trabajo en equipo para crear soluciones innovadoras y escalables. Estoy siempre comprometido a mantenerme actualizado sobre las últimas tendencias y tecnologías en el campo de la programación.
 
 ### Mis Tech Skills
 
